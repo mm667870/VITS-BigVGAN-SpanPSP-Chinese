@@ -13,3 +13,4 @@ torchaudio
 torchvision
 transformers
 transliterate
+pypinyin
