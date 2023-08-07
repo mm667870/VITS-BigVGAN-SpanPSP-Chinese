@@ -3,6 +3,7 @@ numba
 numpy
 nltk
 pandas
+pytokenizations==0.7.2
 scikit-learn
 scipy
 seaborn
